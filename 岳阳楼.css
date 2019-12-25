@@ -1,0 +1,74 @@
+@charset "utf-8";
+/* CSS Document */
+    .p{
+		margin:0 auto;
+		align-content: center；
+	}
+	.q{
+		font-family: "宋体";
+		font-size: 22px;
+	}
+	.w{	
+		font-family: "宋体";
+		font-size:16px;
+		color: aqua;
+	}
+	.e{
+		color:green;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	.r{
+		color:blue;
+		text-decoration: underline
+	}
+	.t{
+		color: darkred;
+		font-weight: bold;
+		text-decoration: underline;
+	}
+	.y{
+		color:darkgoldenrod;
+		font-weight: bold;
+		font-family: "宋体";
+		font-size: 14px;
+	}
+	.a{
+		color: crimson;
+		font-weight: bold ;
+		font-family: "楷体" ;
+		font-size: 10px;
+	}
+	.s{
+		color: blue;
+		font-family: "宋体" ;
+		font-size: 14px;
+		font-weight: bold;
+	}
+	.d{
+		color:crimson;
+		background-color:antiquewhite;
+		font-weight: bold;
+		text-decoration: underline;
+		
+	}
+	.f{
+		color: brown;
+		font-weight: bold;
+		text-decoration: underline;
+		font-size: 16px;
+		font-family: "宋体"
+	}
+	.z{
+		color: brown;
+		background-color: burlywood;
+		font-weight: bold;
+		text-decoration: underline;
+		font-size: 16px;
+	    font-family: "宋体";
+	}
+	.x{
+		color: aqua;
+		font-weight: bold;
+		font-size: 14px
+	}
